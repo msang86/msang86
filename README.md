@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Software Enginner
-- I am ==> Reservoir Enginner | Statistics Specialists | Software Development- JavaScript, Python, C++, matlab
+- I am ==> Reservoir Enginner | Statistics Specialists | JavaScript, Python, C++, matlab
 
 Oil & Gas Experience ==> 11 years
 
